@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <G7Project>
+    <Graph>
+      <Objects>
+        <Obj Name="X1" Page="0" CellX="2" CellY="4" BarInIdx="-1" BarOutIdx="0" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t0" Page="0" CellX="2" CellY="6" BarInIdx="0" BarOutIdx="1" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X4" Page="0" CellX="2" CellY="8" BarInIdx="1" BarOutIdx="2" Type="1" Flags="0">
+          <Code>
+            Iluminacao=true<br/>Fechar=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X6" Page="0" CellX="1" CellY="12" BarInIdx="3" BarOutIdx="12" Type="1" Flags="0">
+          <Code>
+            Iluminacao=false
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X7" Page="0" CellX="3" CellY="12" BarInIdx="4" BarOutIdx="5" Type="1" Flags="0">
+          <Code>
+            Iluminacao=false
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t3" Page="0" CellX="1" CellY="10" BarInIdx="2" BarOutIdx="3" Type="2" Flags="0">
+          <Code>
+            BotaoParar=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t4" Page="0" CellX="3" CellY="10" BarInIdx="2" BarOutIdx="4" Type="2" Flags="0">
+          <Code>
+            DetectorFechada=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X3" Page="0" CellX="1" CellY="20" BarInIdx="9" BarOutIdx="10" Type="1" Flags="0">
+          <Code>
+            iluminacao=false
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t11" Page="0" CellX="3" CellY="14" BarInIdx="5" BarOutIdx="6" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X2" Page="0" CellX="2" CellY="16" BarInIdx="6" BarOutIdx="7" Type="1" Flags="0">
+          <Code>
+            Iluminacao=true;<br/>Abrir=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X5" Page="0" CellX="3" CellY="20" BarInIdx="8" BarOutIdx="11" Type="1" Flags="0">
+          <Code>
+            Iluminacao=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t6" Page="0" CellX="1" CellY="18" BarInIdx="7" BarOutIdx="9" Type="2" Flags="0">
+          <Code>
+            BotaoParar=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t7" Page="0" CellX="3" CellY="18" BarInIdx="7" BarOutIdx="8" Type="2" Flags="0">
+          <Code>
+            DetectorAberta=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t13" Page="0" CellX="3" CellY="22" BarInIdx="11" BarOutIdx="13" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X13" Page="0" CellX="2" CellY="24" BarInIdx="13" BarOutIdx="14" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="Jump" Page="0" CellX="4" CellY="6" BarInIdx="-1" BarOutIdx="1" Type="5" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t12" Page="0" CellX="1" CellY="14" BarInIdx="12" BarOutIdx="6" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t14" Page="0" CellX="1" CellY="22" BarInIdx="10" BarOutIdx="13" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="Jump" Page="0" CellX="4" CellY="28" BarInIdx="15" BarOutIdx="-1" Type="4" Flags="2">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t17" Page="0" CellX="2" CellY="26" BarInIdx="14" BarOutIdx="15" Type="2" Flags="0">
+          <Code>
+            BotaoMover=true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+      </Objects>
+    </Graph>
+  </G7Project>
