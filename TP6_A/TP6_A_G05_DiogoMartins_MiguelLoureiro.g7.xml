@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <G7Project>
+    <Graph>
+      <Objects>
+        <Obj Name="X0" Page="0" CellX="3" CellY="0" BarInIdx="-1" BarOutIdx="0" Type="1" Flags="5">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X1" Page="0" CellX="2" CellY="4" BarInIdx="1" BarOutIdx="3" Type="1" Flags="0">
+          <Code>
+            V6:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X2" Page="0" CellX="4" CellY="4" BarInIdx="1" BarOutIdx="2" Type="1" Flags="0">
+          <Code>
+            Direita:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t0" Page="0" CellX="3" CellY="2" BarInIdx="0" BarOutIdx="1" Type="2" Flags="0">
+          <Code>
+            Inicia
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t1" Page="0" CellX="2" CellY="6" BarInIdx="3" BarOutIdx="4" Type="2" Flags="0">
+          <Code>
+            M_min
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t2" Page="0" CellX="4" CellY="6" BarInIdx="2" BarOutIdx="6" Type="2" Flags="0">
+          <Code>
+            X2_T&gt;50
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X3" Page="0" CellX="2" CellY="8" BarInIdx="4" BarOutIdx="5" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X4" Page="0" CellX="4" CellY="8" BarInIdx="6" BarOutIdx="5" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="Jump0" Page="0" CellX="1" CellY="32" BarInIdx="21" BarOutIdx="-1" Type="4" Flags="2">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="Jump0" Page="0" CellX="1" CellY="10" BarInIdx="-1" BarOutIdx="8" Type="5" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t11" Page="0" CellX="3" CellY="10" BarInIdx="5" BarOutIdx="8" Type="2" Flags="0">
+          <Code>
+            true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X5" Page="0" CellX="3" CellY="12" BarInIdx="8" BarOutIdx="7" Type="1" Flags="0">
+          <Code>
+            V7:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t12" Page="0" CellX="3" CellY="14" BarInIdx="7" BarOutIdx="9" Type="2" Flags="0">
+          <Code>
+            Ciclo
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X6" Page="0" CellX="2" CellY="16" BarInIdx="9" BarOutIdx="11" Type="1" Flags="0">
+          <Code>
+            V1:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X7" Page="0" CellX="3" CellY="16" BarInIdx="9" BarOutIdx="10" Type="1" Flags="0">
+          <Code>
+            V3:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X8" Page="0" CellX="4" CellY="16" BarInIdx="9" BarOutIdx="15" Type="1" Flags="0">
+          <Code>
+            Bomba:=true;<br/>V5:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t13" Page="0" CellX="2" CellY="18" BarInIdx="11" BarOutIdx="12" Type="2" Flags="0">
+          <Code>
+            Prato1
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t14" Page="0" CellX="3" CellY="18" BarInIdx="10" BarOutIdx="13" Type="2" Flags="0">
+          <Code>
+            Prato2
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t15" Page="0" CellX="4" CellY="18" BarInIdx="15" BarOutIdx="14" Type="2" Flags="0">
+          <Code>
+            m_max
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X9" Page="0" CellX="2" CellY="20" BarInIdx="12" BarOutIdx="16" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X10" Page="0" CellX="3" CellY="20" BarInIdx="13" BarOutIdx="16" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X11" Page="0" CellX="4" CellY="20" BarInIdx="14" BarOutIdx="16" Type="1" Flags="0">
+          <Code>
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t16" Page="0" CellX="3" CellY="22" BarInIdx="16" BarOutIdx="17" Type="2" Flags="0">
+          <Code>
+            true
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X12" Page="0" CellX="3" CellY="24" BarInIdx="17" BarOutIdx="18" Type="1" Flags="0">
+          <Code>
+            V2:=true;<br/>V4:=true;<br/>Esquerda:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t17" Page="0" CellX="3" CellY="26" BarInIdx="18" BarOutIdx="19" Type="2" Flags="0">
+          <Code>
+            X12_T&gt;100
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="X13" Page="0" CellX="3" CellY="28" BarInIdx="19" BarOutIdx="20" Type="1" Flags="0">
+          <Code>
+            Motor_pa:=true;
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+        <Obj Name="t18" Page="0" CellX="3" CellY="30" BarInIdx="20" BarOutIdx="21" Type="2" Flags="0">
+          <Code>
+            X13_T&gt;50
+          </Code>
+          <Text>
+          </Text>
+        </Obj>
+      </Objects>
+    </Graph>
+  </G7Project>
